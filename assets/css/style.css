@@ -26,6 +26,7 @@ body {
 header {
     background-color: aliceblue;
 }
+h1 {font-family: 'Oswald',sans-serif;}
 /*main*/
 main {
     background-color: antiquewhite;
